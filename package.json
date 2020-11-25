@@ -3,7 +3,7 @@
   "version": "6.4.0",
   "description": "Cordova Facebook SDK 4 Plugin",
   "cordova": {
-    "id": "cordova-plugin-facebook4",
+    "id": "cordova-plugin-facebook4-pschinis-no-zxing",
     "platforms": [
       "android",
       "ios",
